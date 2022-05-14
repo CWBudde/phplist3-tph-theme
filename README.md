@@ -1,8 +1,6 @@
 # TPH theme (based on Trevelin) 
 A Trevelin and thus bootstrap-based theme for [phpList 3](https://github.com/phpList/phplist3/)
 
-[![Build Status](https://travis-ci.org/phpList/phplist-ui-bootlist.svg?branch=master)](https://travis-ci.org/phpList/phplist-ui-bootlist)
-
 Bootstrap class names and extra html needed, inserted by jQuery with the script:
 `js/phpList3ToBootstrap.js`
 
