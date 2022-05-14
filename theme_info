@@ -1,0 +1,3 @@
+name=TanzpunktHannover
+dir=tph
+deployrm="bootstrap less vendor"
